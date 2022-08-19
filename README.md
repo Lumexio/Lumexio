@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumexio&label=Profile%20views&color=0e75b6&style=flat" alt="lumexio" /> </p>
 
-- 🔭 I’m currently working on [PocketBar](https://github.com/Comet-Pocket-Machinery/Pocket-Bar)
+- 🔭 I’m currently working on [PocketBar](https://github.com/Comet-Pocket-Machinery/Pocket-Bar),[PocketStock](https://github.com/Lumexio/pocketstock) and [My Portfolio](https://github.com/Lumexio/portfolio)
 
 - 🌱 I’m currently learning **Flutter and Electron**
 
