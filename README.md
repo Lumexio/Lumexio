@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and Electron**
 
-- 👨‍💻 All of my projects are available at [Available soon](Available soon)
+- 👨‍💻 All info about me and my experience are available at my [Portfolio](https://lumexio.github.io/portfolio/)
 
 - 📫 How to reach me **lumexio.dev@gmail.com**
 
