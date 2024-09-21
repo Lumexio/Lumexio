@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Francisco Salazar (Lumexio)</h1>
-<h3 align="center">A passionate frontend and backend developer from Mexíco</h3>
+<h3 align="center">A passionate, Computer Systems engineer, frontend and backend developer from Mexíco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumexio&label=Profile%20views&color=0e75b6&style=flat"
   alt="lumexio" /> </p>
 
-- 🔭 I’m currently working on [PocketBar](https://github.com/Comet-Pocket-Machinery/Pocket-Bar)
-- 🌱 I’m currently learning **Flutter, Electron and Reactjs**
+- 🔭 I’m currently refactoring [PocketBar](https://github.com/Comet-Pocket-Machinery/Pocket-Bar)
+- 🌱 I’m currently learning **Ruby and Ruby on rails**
 
 - 👨‍💻 All info about me and my experience are available at my [Portfolio](https://lumexio.github.io/portfolio/)
 
 - 📫 How to reach me **lumexio.dev@gmail.com**
-
+- 👨‍💻 Profesional profile [LinkedIn](https://www.linkedin.com/in/francisco-salazar-mendoza/)
+### Projects
+- 💾 ElectronJs,Vuejs and Vuetify stock project [StockMachine](https://stockmachine.online)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
