@@ -9,12 +9,13 @@
 
 - 👨‍💻 All info about me and my experience are available at my [Portfolio](https://lumexio.github.io/portfolio/)
 
-- 📫 How to reach me **lumexio.dev@gmail.com**
-- 👨‍💻 Profesional profile [LinkedIn](https://www.linkedin.com/in/francisco-salazar-mendoza/)
 ### Projects
 - 💾 ElectronJs,Vuejs and Vuetify stock project [StockMachine](https://stockmachine.online)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+- 📫 How to reach me **lumexio.dev@gmail.com**
+- 👨‍💻 Profesional profile [LinkedIn](https://www.linkedin.com/in/francisco-salazar-mendoza/)
 </p>
 
 <h3 align="left">Tech stack:</h3>
