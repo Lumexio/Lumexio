@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lumexio&label=Profile%20views&color=0e75b6&style=flat"
   alt="lumexio" /> </p>
 
-- 🔭 I’m currently refactoring [PocketBar](https://github.com/Comet-Pocket-Machinery/Pocket-Bar)
-- 🌱 I’m currently learning **Ruby and Ruby on rails**
+- 🔭 I’m currently leveling up my leet code stats
+- 🌱 I’m currently learning Machine learning
 
 - 👨‍💻 All info about me and my experience are available at my [Portfolio](https://lumexio.github.io/portfolio/)
 
